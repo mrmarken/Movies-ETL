@@ -6,6 +6,7 @@ archive.zip
 archive/
 ratings.csv
 config.txt
+config.py
 
 
 # Byte-compiled / optimized / DLL files
